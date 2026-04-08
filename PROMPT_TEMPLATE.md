@@ -92,6 +92,8 @@ Question ouverte à la communauté ou call to action.
 | 2026-03-12 | No-code / Design IA | "J'ai découvert un outil qui ressemble à Figma — mais où c'est l'IA qui dessine à ta place." | post_001_pencil_mcp.md |
 | À planifier | MCP | "Les LLMs sont forts pour répondre. Mais ils ne font rien — ils conseillent." | post_002_mcp.md |
 | À planifier | No-code / Démo | "J'ai tapé une phrase. 30 secondes plus tard j'avais un site immobilier complet." | post_003_pencil_demo.md |
+| À planifier | LLM / Prompting | "La majorité des prompts LLM en production sont écrits comme des messages Slack." | post_004_prompt_engineering.md |
+| À planifier | LLM / Agents | "'Prompt engineering' est en train de mourir." | post_005_context_engineering.md |
 
 ---
 
